@@ -1,5 +1,5 @@
 
-![Informe de ventas](https://res.cloudinary.com/dd8wdqyeb/image/upload/v1686621443/informe_ventas_xhvir4.gif)
+![Informe de ventas](https://res.cloudinary.com/dd8wdqyeb/image/upload/v1686622554/informe_ventas_1_mhirwc.gif)
 
 # AutoDataProcesor
 
