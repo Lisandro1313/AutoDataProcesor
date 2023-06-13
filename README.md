@@ -23,13 +23,9 @@ AutoDataProcesor es una aplicación de procesamiento de datos de ventas que gene
 ## Instrucciones de uso
 
 1. Clona este repositorio en tu máquina local: git clone https://github.com/tu-usuario/AutoDataProcesor.git#AutoDataProcesor
-
 2. Asegúrate de tener los requisitos previos instalados en tu entorno de Python.
-
 3. Ejecuta el archivo AutoDataProcesor.py para procesar los datos de ventas y generar los informes.
-
 python AutoDataProcesor.py
-
 4. Verifica los archivos generados: informe_ventas.pdf y informe_ventas.xlsx.
 Personalización
 Puedes personalizar la aplicación según tus necesidades modificando el código fuente en AutoDataProcesor.py. Puedes ajustar el archivo de ventas, los productos y el período para generar los informes deseados.
