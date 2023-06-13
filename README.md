@@ -1,4 +1,4 @@
-[![Informe de ventas](https://res.cloudinary.com/dd8wdqyeb/video/upload/v1686620576/informe_ventas_qdsk18.mp4)](https://res.cloudinary.com/dd8wdqyeb/video/upload/v1686620576/informe_ventas_qdsk18.mp4)
+![Informe de ventas](https://res.cloudinary.com/dd8wdqyeb/image/upload/v1686621443/informe_ventas_xhvir4.gif)
 
 # AutoDataProcesor
 
