@@ -1,7 +1,7 @@
 
 # AutoDataProcesor
 
-![Informe de ventas](https://res.cloudinary.com/dd8wdqyeb/image/upload/v1686621443/informe_ventas_xhvir4.gif)
+![Informe de ventas](https://asset.cloudinary.com/dd8wdqyeb/44d6f7ab0f84c1add163ae925f9e0ecd)
 
 AutoDataProcesor es una aplicación de procesamiento de datos de ventas que genera informes en formato PDF y Excel. La aplicación lee un archivo de ventas en formato Excel, filtra los datos según productos y período específicos, calcula diversas estadísticas y genera informes visualmente atractivos.
 
