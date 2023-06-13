@@ -22,7 +22,7 @@ AutoDataProcesor es una aplicación de procesamiento de datos de ventas que gene
 
 1. Clona este repositorio en tu máquina local.
 
-git clone https://github.com/tu-usuario/AutoDataProcesor.git# AutoDataProcesor
+git clone https://github.com/tu-usuario/AutoDataProcesor.git#AutoDataProcesor
 
 2. Asegúrate de tener los requisitos previos instalados en tu entorno de Python.
 
