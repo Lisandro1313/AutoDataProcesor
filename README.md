@@ -30,5 +30,5 @@ python AutoDataProcesor.py
 4. Verifica los archivos generados: informe_ventas.pdf y informe_ventas.xlsx.
 
 
-Personalización
+## Personalización
 Puedes personalizar la aplicación según tus necesidades modificando el código fuente en AutoDataProcesor.py. Puedes ajustar el archivo de ventas, los productos y el período para generar los informes deseados.
