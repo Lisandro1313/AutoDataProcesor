@@ -1,4 +1,4 @@
-![AutoDataProcesor](https://res.cloudinary.com/dd8wdqyeb/image/upload/v1682035114/videoLose_dqxv4h.gif)]
+[![AutoDataProcesor](https://res.cloudinary.com/dd8wdqyeb/image/upload/v1682035114/videoLose_dqxv4h.gif)]](https://res.cloudinary.com/dd8wdqyeb/video/upload/v1686620576/informe_ventas_qdsk18.mp4)
 
 # AutoDataProcesor
 
